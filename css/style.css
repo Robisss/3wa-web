@@ -1,0 +1,6 @@
+body {
+  background:url("../img/forest.jpg") no-repeat;
+  background-size: cover;
+}
+h1.text{text-align: center;color: red;font-size: 300%}
+p.tekstas1{color: white; text-align: center;}
